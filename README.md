@@ -2,7 +2,7 @@
 
 Pi and inkyphat whereislibby
 
-<img src="picture.jpg"/>
+<img src="picture.jpg" width="500px"/>
 
 Based on https://github.com/pimoroni/inky-phat/blob/master/examples/hello.py
 
