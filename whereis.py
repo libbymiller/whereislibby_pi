@@ -52,7 +52,10 @@ inkyphat.text((x, y), name, inkyphat.WHITE, font)
 # get the data
 
 data = get_location()
-ds = data["description"]
+ds = "unknown"
+
+if('decription' in data):
+  ds = data["description"]
 
 # add it to the bottom of the badge
 
